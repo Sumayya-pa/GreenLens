@@ -25,3 +25,9 @@ https://www.loom.com/share/512bbdc09dea4217ae4bb70ab3ee6bcc
 6.matplotlib.pyplot
 ## How to configure
 ![image](https://user-images.githubusercontent.com/84271557/119643322-3960f180-be39-11eb-8887-01242c8e4354.png)
+## How to run
+1.install the gradio using pip install and iport the libraries.
+2.Define the function and the function characteristics.
+3.Define input as image and the for output, it is defined to print the probability of the uploaded image in the 2 classes.
+4.When it starts to run, the local URL will load in the terminal which will work for 24 hrs only. And there will be a copy in the terminal itself for the prediction.
+5.Open the URL in the browser and upload the image to be predicted
