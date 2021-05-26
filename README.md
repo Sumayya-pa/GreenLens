@@ -5,7 +5,7 @@ The main objective of this project is to familiarize with machine learning and s
 2.Sumayya P A  [https://github.com/Sumayya-pa ]
 3.Husna Fathima U M [https://github.com/husna-fathima25]
 ## Team id
-BFH/rec3S0yXm3CcoZQp9/2021.
+BFH/rec3S0yXm3CcoZQp9/2021
 ## Link to product walkthrough
 https://www.loom.com/share/512bbdc09dea4217ae4bb70ab3ee6bcc
 ## How it works?
